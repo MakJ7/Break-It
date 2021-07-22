@@ -3,9 +3,10 @@ import javax.swing.JFrame;
 /**
  * Write a description of class Main here.
  *
- * @author (your name)
- * @version 04/09/2020 (Start Date)
+ * @author MakJ7
+ * @version 04/09/2020
  */
+
 public class Main
 {
     public static void main(String[] args) {
