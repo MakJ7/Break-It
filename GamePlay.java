@@ -11,12 +11,6 @@ import java.awt.Rectangle;
 import java.awt.Graphics2D;
 import javax.swing.Timer;
 
-/**
- * Write a description of class GamePlay here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class GamePlay extends JPanel implements KeyListener, ActionListener {
     private boolean play = false;
     private int score = 0;
